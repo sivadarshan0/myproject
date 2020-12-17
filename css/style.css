@@ -1,0 +1,83 @@
+/*CSS Style sheet*/
+
+#main_wrapper {
+	width:500px;
+	background-color:white;
+	padding:5px;
+	margin:0 auto;
+	border-radius:10px;
+	border:solid 2px #34495e;
+}
+
+.avatar {
+	width:150px;
+	border-radius:50%;
+	background-color:#f39c12;
+	text-align:center;
+}
+
+#main_form {
+	width:90%;
+	/*border:solid black;*/
+	padding:5px;
+	margin:0 auto;
+}
+
+.inputvalues {
+	width:97%;
+	padding:5px;
+	margin:5px auto;
+	border-radius:5px;
+	font-style:italic;
+}
+
+.btn_login {
+	width:100%;
+	padding:5px;
+	margin:5px auto;
+	border-radius:5px;
+	background-color:#27ae60;
+	color:white;
+	font-size:18px;
+	font-weight:bold;
+	text-align:center;
+}
+
+.btn_register {
+	width:100%;
+	padding:5px;
+	margin:5px auto;
+	margin-bottom:10px;
+	border-radius:5px;
+	background-color:#3498db;
+	color:white;
+	font-size:18px;
+	font-weight:bold;
+	text-align:center;
+}
+
+.btn_back {
+	width:30%;
+	padding:5px;
+	margin:5px auto;
+	margin-bottom:10px;
+	border-radius:5px;
+	background-color:#e67e22;
+	color:white;
+	font-size:18px;
+	font-weight:bold;
+	text-align:center;
+}
+
+.btn_logout {
+	width:100%;
+	padding:5px;
+	margin:5px auto;
+	margin-bottom:10px;
+	border-radius:5px;
+	background-color:#e74c3c;
+	color:white;
+	font-size:18px;
+	font-weight:bold;
+	text-align:center;
+}
